@@ -1,2 +1,4 @@
-# Proyecto_DS_Bedu
-Repositorio del proyecto del curso de Ciencia de Datos en Bedu.
+# Data Science Project
+Data cleaning and analysis of the Global Average Temperatures and CO2 emissions.
+The data were analized using R and Python, and a database on MySQL 
+
